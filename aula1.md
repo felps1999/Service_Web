@@ -39,3 +39,9 @@
 ```sh
     git branch
 ```
+
+# 7. Atualizando a main
+
+```sh
+    git push origin main
+```
