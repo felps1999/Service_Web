@@ -45,3 +45,15 @@
 ```sh
     git push origin main
 ```
+
+# 8. Revertendo um erro
+    // Se o git reclamar do push, faz o reset, repete o processo de add. commit e push, consecutivamente
+```sh
+    git reset origin/main 
+```
+
+# 9. Clonando Repositórios
+
+```sh
+    git clone <URL do repositório>
+```
