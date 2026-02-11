@@ -57,3 +57,7 @@
 ```sh
     git clone <URL do repositório>
 ```
+
+# 10. Fork -> Clone -> Branch -> Merge
+
+# 11. Estudar todo esse processo e praticar com outros repositórioss
